@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ayman</h1>
-<h3 align="center">A passionate Software engineer, interested in Full stack web development with many frameworks i am not limited to one stack also i am very passionate in database administration and management</h3>
+<h3 align="center">A passionate Software engineer, interested in Web development with many frameworks i am not limited to one stack also i am very passionate in database administration and management</h3>
 
-- 🌱 I’m currently learning **Devops and Cloud Computing**
+- 🌱 I’m currently working in a multinational company based in london
 
 - 👨‍💻 All of my projects are available at [https://portfolio-hazel-one-25.vercel.app/](https://portfolio-hazel-one-25.vercel.app/)
 
