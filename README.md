@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-hazel-one-25.vercel.app/](https://portfolio-hazel-one-25.vercel.app/)
 
-- 💬 Ask me about **front-end (react, angular, next), backend (express, nest), databases (sql, nosql)**
+- 💬 Ask me about **front-end (react, vue, next), backend (express, nest), databases (sql, nosql)**
 
 - 📫 How to reach me **abdelrahman.ayman8642@gmal.com**
 
